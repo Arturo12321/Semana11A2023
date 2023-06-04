@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Semana11A2023.MainPage">
+
+    <StackLayout Padding="12">
+        <Button x:Name="Item1" Text="Ejemplos de Suma" Style="{StaticResource buttonStyle}" />
+        <Button x:Name="Item2" Text="Ejemplos de Resta" Style="{StaticResource buttonStyle}" />
+        <Button x:Name="Item3" Text="Ejemplos de Multiplicar" Style="{StaticResource buttonStyle}" />
+        <Button x:Name="Item4" Text="Ejemplos de Dividir" Style="{StaticResource buttonStyle}" />
+        
+    </StackLayout>
+
+</ContentPage>
